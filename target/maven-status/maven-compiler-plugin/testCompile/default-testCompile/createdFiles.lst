@@ -1,0 +1,7 @@
+serenity/stepdef/Edit_Details_About_You_StepDef.class
+serenity/pages/Details_About_You_Page.class
+serenity/stepdef/Facebook_Login_StepDef.class
+serenity/pages/FeedPage.class
+serenity/pages/ProfilePage.class
+serenity/pages/LoginPage.class
+serenity/runner/Runner.class
