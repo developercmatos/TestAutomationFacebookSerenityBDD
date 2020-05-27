@@ -1,2 +1,2 @@
-# Facebook TestAutomation SerenityBDD
+# Facebook Test Automation SerenityBDD
 
